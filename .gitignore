@@ -3,3 +3,40 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Code-Space
+.fliot.code-workspace
+
+# PlatformIO Build Directory
+/.pio/
+
+# VS Code Configuration
+.vscode/
+
+# Environment Files
+.env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Compiled Binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Upload Files
+*.upload.*
+
+# Temporary Files
+*~
+*.swp
+*.swo
